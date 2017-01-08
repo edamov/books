@@ -12,6 +12,7 @@
 - [OAuthello](https://leanpub.com/oauthello-a-book-about-oauth/). Alex Bilbie - Not complete yet
 - [Modernizing Legacy Applications In PHP](https://leanpub.com/mlaphp). Paul M. Jones - $30
 - [Pro Git](https://git-scm.com/book/ru/v2). Free
+- [Refactoring to Collections](https://adamwathan.me/refactoring-to-collections/). Adam Wathan. $39 - $250
 
 ##Paperback
 - [PHP Objects, Patterns, and Practice](https://www.amazon.co.uk/Objects-Patterns-Practice-MATT-ZANDSTRA/dp/1484219953/ref=sr_1_19?s=books&ie=UTF8&qid=1483544988&sr=1-19&keywords=php). Matt Zandstra. 5th edition, 2017 - $38
