@@ -1,6 +1,7 @@
 # books
 
 ##Resources
+- [Free programming books on github](https://github.com/vhf/free-programming-books)
 - [Safari books](https://www.safaribooksonline.com)
 
 ##E-books:
