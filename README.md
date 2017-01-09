@@ -4,6 +4,9 @@
 - [Free programming books on github](https://github.com/vhf/free-programming-books)
 - [Safari books](https://www.safaribooksonline.com)
 
+##Magazines:
+- [php[architect]](https://www.phparch.com/magazine/2017-2/january/) :uk:
+
 ##E-books:
 - [Deploying PHP Applications](https://leanpub.com/deploying-php-applications). Niklas Modess - $15 :uk:
 - [Build APIs You Won't Hate](https://leanpub.com/build-apis-you-wont-hate). Phil Sturgeon - $27 :uk:
