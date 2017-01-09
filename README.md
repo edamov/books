@@ -1,5 +1,8 @@
 # books
 
+##Resources
+- [Safari books](https://www.safaribooksonline.com)
+
 ##E-books:
 - [Deploying PHP Applications](https://leanpub.com/deploying-php-applications). Niklas Modess - $15
 - [Build APIs You Won't Hate](https://leanpub.com/build-apis-you-wont-hate). Phil Sturgeon - $27
@@ -13,6 +16,8 @@
 - [Modernizing Legacy Applications In PHP](https://leanpub.com/mlaphp). Paul M. Jones - $30
 - [Pro Git](https://git-scm.com/book/ru/v2). Free
 - [Refactoring to Collections](https://adamwathan.me/refactoring-to-collections/). Adam Wathan. $39 - $250
+- [Securing PHP Apps](http://www.apress.com/la/book/9781484221198). Ben Edmunds - $10
+- [PHP 7: Real World Application Development](http://shop.oreilly.com/product/9781787129009.do). Doug Bierer, Altaf Hussain, Branko Ajzele - $70
 
 ##Paperback
 - [PHP Objects, Patterns, and Practice](https://www.amazon.co.uk/Objects-Patterns-Practice-MATT-ZANDSTRA/dp/1484219953/ref=sr_1_19?s=books&ie=UTF8&qid=1483544988&sr=1-19&keywords=php). Matt Zandstra. 5th edition, 2017 - $38
@@ -22,3 +27,4 @@
 - [Modular Programming with PHP7](https://www.amazon.com/Modular-Programming-PHP-Branko-Ajzele-ebook/dp/B01DULYMMM/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1483910071&sr=1-1&keywords=Modular+Programming+with+PHP+7). Branko Ajzele. 2016 - $50 ($35 e-book)
 - [Head First Design Patterns](http://shop.oreilly.com/product/9780596007126.do). Eric Freeman. 2004 - ??
 - [Python Machine Learning](https://www.amazon.com/Python-Machine-Learning-Sebastian-Raschka/dp/1783555130/ref=sr_1_2?ie=UTF8&qid=1437754343&sr=8-2&keywords=python+machine+learning+essentials). Sebastian Raschka. 2015 - $41 ($23 e-book)
+- [Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation, Video Enhanced Edition](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912). Jez Humble $30 ($30 e-book)
