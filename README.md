@@ -23,7 +23,7 @@
 - [Securing PHP Apps](http://www.apress.com/la/book/9781484221198). Ben Edmunds - $10 :uk:
 - [PHP 7: Real World Application Development](http://shop.oreilly.com/product/9781787129009.do). Doug Bierer, Altaf Hussain, Branko Ajzele - $70 :uk:
 - [Living Documentation by design, with Domain-Driven Design](https://leanpub.com/livingdocumentation). Cyrille Martraire - :free: :uk:
-- (React.js)[https://www.gitbook.com/@maxfarseer/]. Max P - :free: :ru:
+- [React.js](https://www.gitbook.com/@maxfarseer). Max P - :free: :ru:
 
 ##Paperback
 - [PHP Objects, Patterns, and Practice](https://www.amazon.co.uk/Objects-Patterns-Practice-MATT-ZANDSTRA/dp/1484219953/ref=sr_1_19?s=books&ie=UTF8&qid=1483544988&sr=1-19&keywords=php). Matt Zandstra. 5th edition, 2017 - $38 :uk:
