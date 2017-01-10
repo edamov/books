@@ -30,6 +30,6 @@
 - [Test Driven Development: By Example](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530). Kent Beck. 2002 - $30 :uk:
 - [Web Security 2016](https://www.amazon.co.uk/Web-Security-2016-Oscar-Merida/dp/1940111412/ref=sr_1_53?s=books&ie=UTF8&qid=1476893434&sr=1-53&keywords=php) - $15 :uk:
 - [Modular Programming with PHP7](https://www.amazon.com/Modular-Programming-PHP-Branko-Ajzele-ebook/dp/B01DULYMMM/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1483910071&sr=1-1&keywords=Modular+Programming+with+PHP+7). Branko Ajzele. 2016 - $50 ($35 e-book) :uk:
-- [Head First Design Patterns](http://shop.oreilly.com/product/9780596007126.do). Eric Freeman. 2004 - ?? :uk: :ru:
+- [Head First Design Patterns](http://shop.oreilly.com/product/9780596007126.do). Eric Freeman. 2004 - $60 ($51 e-book) :uk: :ru:
 - [Python Machine Learning](https://www.amazon.com/Python-Machine-Learning-Sebastian-Raschka/dp/1783555130/ref=sr_1_2?ie=UTF8&qid=1437754343&sr=8-2&keywords=python+machine+learning+essentials). Sebastian Raschka. 2015 - $41 ($23 e-book) :uk:
 - [Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation, Video Enhanced Edition](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912). Jez Humble $30 ($30 e-book):uk:
