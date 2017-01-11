@@ -8,7 +8,7 @@
 - [php[architect]](https://www.phparch.com/magazine/2017-2/january/) :uk:
 
 ##E-books:
-- [Deploying PHP Applications](https://leanpub.com/deploying-php-applications). Niklas Modess - $15 :uk: (or :FREE: on [github](https://github.com/modess/deploying-php-applications))
+- [Deploying PHP Applications](https://leanpub.com/deploying-php-applications). Niklas Modess - $15 :uk: (or :free: on [github](https://github.com/modess/deploying-php-applications))
 - [Build APIs You Won't Hate](https://leanpub.com/build-apis-you-wont-hate). Phil Sturgeon - $27 :uk:
 - [Scaling PHP Apps](https://www.scalingphpbook.com/). Stephen Corona - $39-249 :uk:
 - [PHP: Composer](https://leanpub.com/composer-php). Dayle Rees - :free: :uk:
