@@ -34,3 +34,4 @@
 - [Head First Design Patterns](http://shop.oreilly.com/product/9780596007126.do). Eric Freeman. 2004 - $60 ($51 e-book) :uk: :ru:
 - [Python Machine Learning](https://www.amazon.com/Python-Machine-Learning-Sebastian-Raschka/dp/1783555130/ref=sr_1_2?ie=UTF8&qid=1437754343&sr=8-2&keywords=python+machine+learning+essentials). Sebastian Raschka. 2015 - $41 ($23 e-book) :uk:
 - [Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation, Video Enhanced Edition](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912). Jez Humble $30 ($30 e-book):uk:
+- [PHP Persistence: Concepts, Techniques and Practical Solutions with Doctrine](https://www.amazon.co.uk/PHP-Persistence-Techniques-Practical-Solutions/dp/1484225589/ref=sr_1_30?s=books&ie=UTF8&qid=1484070738&sr=1-30&keywords=php). Michael Romer - $20 :uk:
