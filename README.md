@@ -1,13 +1,13 @@
 # books
 
-##Resources
+## Resources
 - [Free programming books on github](https://github.com/vhf/free-programming-books)
 - [Safari books](https://www.safaribooksonline.com)
 
-##Magazines:
+## Magazines:
 - [php[architect]](https://www.phparch.com/magazine/2017-2/january/) :uk:
 
-##E-books:
+## E-books:
 - [Deploying PHP Applications](https://leanpub.com/deploying-php-applications). Niklas Modess - $15 :uk: (or :free: on [github](https://github.com/modess/deploying-php-applications))
 - [Build APIs You Won't Hate](https://leanpub.com/build-apis-you-wont-hate). Phil Sturgeon - $27 :uk:
 - [Scaling PHP Apps](https://www.scalingphpbook.com/). Stephen Corona - $39-249 :uk:
@@ -25,7 +25,7 @@
 - [Living Documentation by design, with Domain-Driven Design](https://leanpub.com/livingdocumentation). Cyrille Martraire - :free: :uk:
 - [React.js](https://www.gitbook.com/@maxfarseer). Max P - :free: :ru:
 
-##Paperback
+## Paperback
 - [PHP Objects, Patterns, and Practice](https://www.amazon.co.uk/Objects-Patterns-Practice-MATT-ZANDSTRA/dp/1484219953/ref=sr_1_19?s=books&ie=UTF8&qid=1483544988&sr=1-19&keywords=php). Matt Zandstra. 5th edition, 2017 - $38 :uk:
 - [Debug It!: Find, Repair, and Prevent Bugs in Your Code (Pragmatic Programmers)](https://www.amazon.com/Debug-It-Prevent-Pragmatic-Programmers/dp/193435628X). Paul Butcher. 2009 - $15 :uk:
 - [Test Driven Development: By Example](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530). Kent Beck. 2002 - $30 :uk:
